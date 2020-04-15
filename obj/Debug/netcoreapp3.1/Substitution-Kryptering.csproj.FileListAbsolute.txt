@@ -1,0 +1,13 @@
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.exe
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.deps.json
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.runtimeconfig.json
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.runtimeconfig.dev.json
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.dll
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\bin\Debug\netcoreapp3.1\Substitution-Kryptering.pdb
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.csprojAssemblyReference.cache
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.csproj.CoreCompileInputs.cache
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.AssemblyInfoInputs.cache
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.AssemblyInfo.cs
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.dll
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.pdb
+D:\H4\Visual studio\C#\Substitution-Kryptering\Substitution-Kryptering\obj\Debug\netcoreapp3.1\Substitution-Kryptering.genruntimeconfig.cache
